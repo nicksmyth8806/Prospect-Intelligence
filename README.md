@@ -85,21 +85,26 @@ Additional market intelligence features are currently under development.
 
 ### Main Dashboard
 
-*(Screenshot coming soon)*
+The dashboard combines player performance, prospect analytics, promotion probability, and news into a single interface.
+
+![Main Dashboard](dashboard.png)
 
 ---
 
 ### Card Pricing
 
-*(Screenshot coming soon)*
+The Card Pricing tab retrieves completed sales, tracks historical pricing, and calculates market statistics for prospect cards.
+
+![Card Pricing](pricing.png)
 
 ---
 
 ### Historical Price Chart
 
-*(Screenshot coming soon)*
+Interactive historical price charts allow users to visualize market movement over time and compare pricing trends.
 
----
+![Historical Price Chart](chart.png)
+
 
 ## Purpose
 
